@@ -81,7 +81,7 @@ public class Ventana1_11 extends javax.swing.JFrame {
         hectarias = acres * 4047/10000;
         //SALIDA
         txtHectarias.setText(hectarias+"");
-        cmdTransformacion.
+        
         
         
     }//GEN-LAST:event_cmdCalcularActionPerformed

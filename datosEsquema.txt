@@ -1,0 +1,3 @@
+mysqldump -u root -p12345678 -h localhost -P3307 --no-create-info empresa empleado > C:\Users\Jorge\Desktop\SQL_1\DATA.SQL
+
+mysqldump -u root -p12345678 -h localhost -P3307 -d empresa > C:\Users\Jorge\Desktop\SQL_1\SCHEMA.SQL
